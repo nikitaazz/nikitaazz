@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=120&section=header&text=A1ngel&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Project%20Manager%20%C2%B7%20Software%20Developer&descAlignY=66&descSize=15" width="100%" alt="A1ngel"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=90&section=header&text=A1ngel&fontSize=36&fontColor=ffffff&fontAlignY=34&desc=Project%20Manager%20%C2%B7%20Software%20Developer&descAlignY=64&descSize=12" width="100%" alt="A1ngel"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&width=560&height=40&lines=Hi%2C+I'm+Mykyta+%F0%9F%91%8B;Project+Manager+with+a+developer+background;Informatics+%40+FIIT+STU%2C+Bratislava;Python+%C2%B7+ML+%C2%B7+Spring+Boot+%C2%B7+Vue" alt="Typing intro"/>
 
@@ -58,16 +58,10 @@ I'm a **Project Manager** who started as a developer. I coordinate teams, set pr
 
 ### 🚀 Featured projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| 💬 [**BeBe Chat**](https://github.com/nikitaazz/Real-Time_Messaging_Application) | Discord-like chat PWA with channels, slash commands, mentions and notifications | Vue 3 · Quasar · TS |
-| 🐾 [**Animals-10 Classifier**](https://github.com/nikitaazz/zneus-animal) | Custom CNNs vs. transfer learning, **97.5%** test accuracy | PyTorch · W&B |
-| 🔭 [**MAGIC Telescope**](https://github.com/nikitaazz/zneus-telescope) | Gamma vs. hadron classification with stats-heavy EDA and 16 MLP experiments | PyTorch · sklearn |
-| 🧪 [**Python Backend Test Task**](https://github.com/nikitaazz/python-backend-test-task) | REST API, Celery + Redis jobs and an ML model served by FastAPI | FastAPI · Docker |
-| 🎧 [**Music RecSys Article**](https://github.com/nikitaazz/music-recsys-article) | How streaming services personalize music, including an interview with Yandex's head of recommendations | LaTeX |
-| 🧮 [**C Linked Lists**](https://github.com/nikitaazz/c-linked-lists-project) | Console app with manual memory management, dynamic arrays and linked lists | C |
-
-<sub>Also hosted here: 🧠 [Prompt2Flow](https://github.com/nikitaazz/Prompt2Flow), an AI business-process modeler (bachelor's project by [@Timotej04](https://github.com/Timotej04)).</sub>
+- 💬 [**BeBe Chat**](https://github.com/nikitaazz/Real-Time_Messaging_Application): Discord-like chat PWA · *Vue 3, Quasar*
+- 🐾 [**Animals-10**](https://github.com/nikitaazz/zneus-animal): image classifier, 97.5% accuracy · *PyTorch*
+- 🔭 [**MAGIC Telescope**](https://github.com/nikitaazz/zneus-telescope): gamma vs. hadron classification · *PyTorch*
+- 🧪 [**Backend Test Task**](https://github.com/nikitaazz/python-backend-test-task): REST API, Celery jobs, ML service · *FastAPI*
 
 ### 🎓 Education & certificates
 
@@ -81,4 +75,4 @@ I'm a **Project Manager** who started as a developer. I coordinate teams, set pr
 
 Ukrainian **native** · Russian **native-level** · English **B2–C1** · Slovak **B2–C1** · Spanish **learning**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=70&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=50&section=footer" width="100%" alt=""/>
